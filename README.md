@@ -1,1 +1,1 @@
-# MFTR-Fading-Channel-Model
+# The Multi-Cluster Fluctuating Two-Ray Fading Model
